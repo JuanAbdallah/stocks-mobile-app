@@ -37,7 +37,7 @@ Stocks Mobile App é um aplicativo desenvolvido em **React Native** que permite 
 
 ## 📩 Contato
 Caso tenha dúvidas ou sugestões, entre em contato:
-- 📧 Email: seuemail@exemplo.com
+- 📧 Email: juanabdallahritti@gmail.com
 - 🔗 LinkedIn: [Juan Abdallah Ritti de Oliveira](https://www.linkedin.com/in/juan-abdallah-ritti-de-oliveira-810141258/)
 
 ---
